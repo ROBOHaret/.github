@@ -7,4 +7,4 @@
 
 # Titlu
 
-![Motor]()
+![Motor](/poza.png)
