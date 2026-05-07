@@ -1,4 +1,4 @@
-## Repository-ul unde puteți găsi toate lecțiile
+## Repository-ul cu resurse
 
 | Lecție | Subiect | Link |
 | :--- | :--- | :--- |
